@@ -1,0 +1,2 @@
+# fmaxrb
+Daily digest notes
